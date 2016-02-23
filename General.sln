@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitJson", "SplitJson\SplitJson.csproj", "{D34C66B0-CFF1-4B1C-B581-A54BA9B4A51A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webapi", "Webapi\Webapi.csproj", "{172FCC4B-4F72-47DA-900A-8BEB8E4DE46F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalLib", "PersonalLib\PersonalLib.csproj", "{A03FFE48-7875-4FE8-BDEF-2CD1886F28D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34C66B0-CFF1-4B1C-B581-A54BA9B4A51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34C66B0-CFF1-4B1C-B581-A54BA9B4A51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34C66B0-CFF1-4B1C-B581-A54BA9B4A51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34C66B0-CFF1-4B1C-B581-A54BA9B4A51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172FCC4B-4F72-47DA-900A-8BEB8E4DE46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172FCC4B-4F72-47DA-900A-8BEB8E4DE46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172FCC4B-4F72-47DA-900A-8BEB8E4DE46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172FCC4B-4F72-47DA-900A-8BEB8E4DE46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03FFE48-7875-4FE8-BDEF-2CD1886F28D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03FFE48-7875-4FE8-BDEF-2CD1886F28D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03FFE48-7875-4FE8-BDEF-2CD1886F28D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03FFE48-7875-4FE8-BDEF-2CD1886F28D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
