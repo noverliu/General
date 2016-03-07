@@ -9,6 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webapi", "Webapi\Webapi.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalLib", "PersonalLib\PersonalLib.csproj", "{A03FFE48-7875-4FE8-BDEF-2CD1886F28D0}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebAndLoadTestProject1", "WebAndLoadTestProject1\WebAndLoadTestProject1.vbproj", "{6DE2A3D1-C579-492D-93E5-EFDA6DBFB78B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF1C4993-A83D-4D64-9CA9-E687FAC15A87}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +34,10 @@ Global
 		{A03FFE48-7875-4FE8-BDEF-2CD1886F28D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A03FFE48-7875-4FE8-BDEF-2CD1886F28D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A03FFE48-7875-4FE8-BDEF-2CD1886F28D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE2A3D1-C579-492D-93E5-EFDA6DBFB78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE2A3D1-C579-492D-93E5-EFDA6DBFB78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE2A3D1-C579-492D-93E5-EFDA6DBFB78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE2A3D1-C579-492D-93E5-EFDA6DBFB78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
